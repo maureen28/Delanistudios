@@ -1,23 +1,37 @@
-body{
+body {
     margin: 0;
-    padding:0;
+    padding: 0;
 }
+
 .background1 {
     background-image: url(../assets/backgrounds/h_img.jpg);
-    height:100vh ;
+    height: 100vh;
     text-align: center;
+    padding-top: 40vh;
+    font-size: 40px;
+    
 }
+.mouse{
+    padding-bottom:30vh; 
+}
+
 .background2 {
     background-image: url(../assets/backgrounds/s_image.jpg);
     text-align: center;
-
+    text-decoration-color: white;
+    
 }
+
 .background3 {
     background-image: url(../assets/backgrounds/c_image.jpg);
     text-align: center;
    
+}
+
+.form h5 {
+    text-align: center;
 
 }
-.feature p{
-    display: none;
+span{
+    text-align: center;
 }
