@@ -13,8 +13,15 @@
 > jQuery.
 
 ### Set-up Instruction.
-You can clone the repo at  and open the index.html file using your google Chrome. You can click the live link at 
+You can clone the repo at https://github.com/maureen28/Delanistudios.git and open the index.html file using your google Chrome. 
+or You can click the live link at 
+
 ### BDD
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 
 ### Contact Information.
 For more information contact us via;
