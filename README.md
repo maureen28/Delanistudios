@@ -26,3 +26,7 @@ or You can click the live link at
 ### Contact Information.
 For more information contact us via;
 Email:murimimaureen8@gmail.com Tel :+254799280333
+
+MIT License
+
+Copyright (c) 2019 maureen28
