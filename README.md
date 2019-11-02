@@ -7,7 +7,7 @@
 
 ### Screenshot.
 
-### Technologie used.
+### Technologies used.
 > HTML
 > Bootstrap
 > jQuery.
