@@ -9,43 +9,66 @@ body {
     text-align: center;
     padding-top: 40vh;
     color: white;
-    font-size: 40px;
+    font-size: 48px;
 
 }
 
 .mouse {
-    padding-bottom: 30vh;
+    padding-top: 13vh;
+}
+.about{
+    font-family:'Quicksand', sans-serif;
+    font-size: 20px;  
 }
 
+h2, h2{
+    font-size: 2.5rem;
+    }
 .background2 {
     background-image: url(../assets/backgrounds/s_image.jpg);
     text-align: center;
+    height: 50vh;
     color: white;
-    font-family: 'Muli', sans-serif;
-
+    font-family:'Quicksand', sans-serif;
+    font-size: 30px;
+    padding-top: 10px;
 }
-
+h3, h3{
+font-size: 2.5rem;
+}
+h4, h4{
+    font-size: 2.5rem;
+    }
 .background3 {
     background-image: url(../assets/backgrounds/c_image.jpg);
     text-align: center;
     color: white;
-    height: 80vh;
+    height: 50vh;
+    padding-top: 15px;
 
 }
+h5, h5{
+    font-size: 2.5rem;
+    }
 
 #form {
     text-align: center;
 
 }
 
+
 #form img {
     width: 100%;
     padding: 2rem;
+
 }
 
 span {
     text-align: center;
 }
+h6, h6{
+    font-size: 2.0rem;
+    }
 
 .icons {
     text-align: center;
