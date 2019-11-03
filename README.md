@@ -6,9 +6,12 @@
 
 
 ### Screenshot.
+<img src="./assets/Screenshots/Screenshot1.jpg" alt="delanistudio" title="Image vie via phone" width="400"/>>
+<img src="./assets/Screenshots/Screenshot3.jpg" alt="delani" title="Image via laptop" width="400"/>>
 
 ### Technologies used.
 > HTML
+> CSS
 > Bootstrap
 > jQuery.
 
