@@ -3,11 +3,12 @@
 ## Author: Maureen Wairimu.
 
 ### Description.
-
+This web application is a design studio. They help their users' get to know more about their team and their past projects as well as the services they offer on their webpage.  
 
 ### Screenshot.
-<img src="./assets/Screenshots/Screenshot2.jpg" alt="delanistudio" width="400"/>
 <img src="./assets/Screenshots/Screenshot3.jpg" alt="delani" title="Image via laptop" width="400"/>
+<img src="./assets/Screenshots/Screenshot2.jpg" alt="delanistudio" width="400"/>
+
 
 ### Technologies used.
 > HTML
@@ -21,9 +22,8 @@ or You can click the live link at
 
 ### BDD
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>User enters a valid email which contains "@".</li>
+<li>User recieves a pop up message once their messages are delivered</li>
 </ul>
 
 ### Contact Information.
