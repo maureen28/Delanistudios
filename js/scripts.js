@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $("p").click(function () {
-        $(".feature hiding").toggle(slow)
-        $(".feature showing").toggle(slow)
+        $(".feature-hidden").toggle("slow");
+        $(".feature-showing").toggle("fast");
     });
 });

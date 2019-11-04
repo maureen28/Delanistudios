@@ -73,3 +73,6 @@ h6, h6{
 .icons {
     text-align: center;
 }
+.feature-showing{
+    display: none;
+}
