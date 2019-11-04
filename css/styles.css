@@ -16,29 +16,37 @@ body {
 .mouse {
     padding-top: 13vh;
 }
-.about{
-    font-family:'Quicksand', sans-serif;
-    font-size: 20px;  
+
+.about {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
 }
 
-h2, h2{
+h2,
+h2 {
     font-size: 2.5rem;
-    }
+}
+
 .background2 {
     background-image: url(../assets/backgrounds/s_image.jpg);
     text-align: center;
     height: 50vh;
     color: white;
-    font-family:'Quicksand', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 30px;
     padding-top: 10px;
 }
-h3, h3{
-font-size: 2.5rem;
-}
-h4, h4{
+
+h3,
+h3 {
     font-size: 2.5rem;
-    }
+}
+
+h4,
+h4 {
+    font-size: 2.5rem;
+}
+
 .background3 {
     background-image: url(../assets/backgrounds/c_image.jpg);
     text-align: center;
@@ -47,32 +55,114 @@ h4, h4{
     padding-top: 15px;
 
 }
-h5, h5{
+
+h5,
+h5 {
     font-size: 2.5rem;
-    }
+}
 
 #form {
     text-align: center;
 
 }
 
-
-#form img {
-    width: 100%;
-    padding: 2rem;
-
-}
-
 span {
     text-align: center;
 }
-h6, h6{
+
+h6,
+h6 {
     font-size: 2.0rem;
-    }
+}
 
 .icons {
     text-align: center;
 }
-.feature-showing{
+
+.feature-showing {
     display: none;
+}
+
+.feature2-showing {
+    display: none;
+}
+
+.feature3-showing {
+    display: none;
+}
+
+#image {
+    display: none;
+    width: 100%;
+    padding: 2rem;
+    border: 1px black;
+    height: 85%;
+    color: white;
+    text-align: center;
+    font-size: calc(112% + 1vh);
+    background: rgba(0, 0, 0, 0.7);
+}
+
+#p8 {
+    background: url(../assets/portfolio/work8.jpg);
+    background-size: cover;
+    height: 30vh;
+    width: 90%;
+    padding: 2rem;
+}
+
+#p7 {
+    background: url(../assets/portfolio/work7.jpg);
+    background-size: cover;
+    height: 30vh;
+    width: 90%;
+    padding: 2rem;
+}
+
+#p6 {
+    background: url(../assets/portfolio/work6.jpg);
+    background-size: cover;
+    height: 30vh;
+    width: 90%;
+    padding: 2rem;
+}
+
+#p5 {
+    background: url(../assets/portfolio/work5.jpg);
+    background-size: cover;
+    height: 30vh;
+    width: 90%;
+    padding: 2rem;
+}
+
+#p1 {
+    background: url(../assets/portfolio/work4.jpg);
+    background-size: cover;
+    height: 30vh;
+    width: 90%;
+    padding: 2rem;
+}
+
+#p2 {
+    background: url(../assets/portfolio/work3.jpg);
+    background-size: cover;
+    height: 30vh;
+    width: 90%;
+    padding: 2rem;
+}
+
+#p3 {
+    background: url(../assets/portfolio/work2.jpg);
+    background-size: cover;
+    height: 30vh;
+    width: 90%;
+    padding: 2rem;
+}
+
+#p4 {
+    background: url(../assets/portfolio/work1.jpg);
+    background-size: cover;
+    height: 30vh;
+    width: 90%;
+    padding: 2rem;
 }

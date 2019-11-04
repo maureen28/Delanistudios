@@ -9,7 +9,6 @@ This web application is a design studio. They help their users' get to know more
 <img src="./assets/Screenshots/Screenshot3.jpg" alt="delani" title="Image via laptop" width="400"/>
 <img src="./assets/Screenshots/Screenshot2.jpg" alt="delanistudio" width="400"/>
 
-
 ### Technologies used.
 > HTML
 > CSS
