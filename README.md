@@ -17,7 +17,7 @@ This web application is a design studio. They help their users' get to know more
 
 ### Set-up Instruction.
 You can clone the repo at https://github.com/maureen28/Delanistudios.git and open the index.html file using your google Chrome. 
-or You can click the live link at 
+or You can click the live link at https://maureen28.github.io/Delanistudios/.
 
 ### BDD
 <ul>
